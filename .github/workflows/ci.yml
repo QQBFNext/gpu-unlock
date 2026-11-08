@@ -25,6 +25,7 @@ jobs:
           devscripts \
           debhelper \
           dpkg-dev \
+          dh-dkms \
           dkms \
           fakeroot \
           git \
